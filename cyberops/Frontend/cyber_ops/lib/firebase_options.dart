@@ -41,49 +41,49 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDOT7p8wcqdJzOO_lQA_vaklIh2YbBECko',
-    appId: '1:848558525196:web:475bca351987974373d729',
-    messagingSenderId: '848558525196',
-    projectId: 'cyberops-62682',
-    authDomain: 'cyberops-62682.firebaseapp.com',
-    storageBucket: 'cyberops-62682.firebasestorage.app',
-    measurementId: 'G-LS5M5K0FNW',
+    apiKey: 'YOUR_API_KEY_HERE',
+    appId: 'YOUR_APP_ID_HERE',
+    messagingSenderId: 'YOUR_SENDER_ID_HERE',
+    projectId: 'YOUR_PROJECT_ID_HERE',
+    authDomain: 'YOUR_AUTH_DOMAIN_HERE',
+    storageBucket: 'YOUR_STORAGE_BUCKET_HERE',
+    measurementId: 'YOUR_MEASUREMENT_ID_HERE',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBXMCrReDrmI0Jdm0hSwJPbOKFiuMoWXg8',
-    appId: '1:848558525196:android:54b66cb6a43d6f7c73d729',
-    messagingSenderId: '848558525196',
-    projectId: 'cyberops-62682',
-    storageBucket: 'cyberops-62682.firebasestorage.app',
+    apiKey: 'YOUR_API_KEY_HERE',
+    appId: 'YOUR_APP_ID_HERE',
+    messagingSenderId: 'YOUR_SENDER_ID_HERE',
+    projectId: 'YOUR_PROJECT_ID_HERE',
+    storageBucket: 'YOUR_STORAGE_BUCKET_HERE',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDK9S18JDBCE_AP1ZKlOEOIuayifCbpy9w',
-    appId: '1:848558525196:ios:0495058f38b908f673d729',
-    messagingSenderId: '848558525196',
-    projectId: 'cyberops-62682',
-    storageBucket: 'cyberops-62682.firebasestorage.app',
-    iosBundleId: 'com.example.cyberOps',
+    apiKey: 'YOUR_API_KEY_HERE',
+    appId: 'YOUR_APP_ID_HERE',
+    messagingSenderId: 'YOUR_SENDER_ID_HERE',
+    projectId: 'YOUR_PROJECT_ID_HERE',
+    storageBucket: 'YOUR_STORAGE_BUCKET_HERE',
+    iosBundleId: 'YOUR_IOS_BUNDLE_ID_HERE',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDK9S18JDBCE_AP1ZKlOEOIuayifCbpy9w',
-    appId: '1:848558525196:ios:0495058f38b908f673d729',
-    messagingSenderId: '848558525196',
-    projectId: 'cyberops-62682',
-    storageBucket: 'cyberops-62682.firebasestorage.app',
-    iosBundleId: 'com.example.cyberOps',
+    apiKey: 'YOUR_API_KEY_HERE',
+    appId: 'YOUR_APP_ID_HERE',
+    messagingSenderId: 'YOUR_SENDER_ID_HERE',
+    projectId: 'YOUR_PROJECT_ID_HERE',
+    storageBucket: 'YOUR_STORAGE_BUCKET_HERE',
+    iosBundleId: 'YOUR_IOS_BUNDLE_ID_HERE',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDOT7p8wcqdJzOO_lQA_vaklIh2YbBECko',
-    appId: '1:848558525196:web:94dc9e073794686573d729',
-    messagingSenderId: '848558525196',
-    projectId: 'cyberops-62682',
-    authDomain: 'cyberops-62682.firebaseapp.com',
-    storageBucket: 'cyberops-62682.firebasestorage.app',
-    measurementId: 'G-729TJ7YRL7',
+    apiKey: 'YOUR_API_KEY_HERE',
+    appId: 'YOUR_APP_ID_HERE',
+    messagingSenderId: 'YOUR_SENDER_ID_HERE',
+    projectId: 'YOUR_PROJECT_ID_HERE',
+    authDomain: 'YOUR_AUTH_DOMAIN_HERE',
+    storageBucket: 'YOUR_STORAGE_BUCKET_HERE',
+    measurementId: 'YOUR_MEASUREMENT_ID_HERE',
   );
 
 }
