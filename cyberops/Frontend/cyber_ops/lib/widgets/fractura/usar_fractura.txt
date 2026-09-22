@@ -1,0 +1,24 @@
+1 hacer el import:
+import '../widgets/fractura/fractura_dialogo.dart';
+2 Variable:
+bool _mostrarIntroFractura = true;
+3 If al principio del build antes del Scaffold justo arriba
+if (_mostrarIntroFractura) {
+  return Scaffold(
+    backgroundColor: AppColors.bgMain,
+    body: SafeArea(
+      child: FracturaDialogo(
+        dialogos: const [
+          'Bienvenido al nivel.',
+          'Aquí FRACTURA explica la mecánica.',
+          'Cuando termines, empieza la misión.',
+        ],
+        onFinalizado: () {
+          setState(() {
+            _mostrarIntroFractura = false;
+          });
+        },
+      ),
+    ),
+  );
+}
