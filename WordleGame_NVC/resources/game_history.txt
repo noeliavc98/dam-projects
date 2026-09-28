@@ -1,0 +1,17 @@
+===== Nueva Partida =====
+Palabra secreta: TABLE
+Resultado de la Partida: VICTORIA
+Intentos realizados:
+HORSE
+GRAPE
+APPLE
+TABLE
+=========================
+
+===== Nueva Partida =====
+Palabra secreta: HORSE
+Resultado de la Partida: VICTORIA
+Intentos realizados:
+HORSE
+=========================
+
