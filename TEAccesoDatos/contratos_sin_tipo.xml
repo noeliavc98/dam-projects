@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<contratos>
+    <contrato>
+        <nif>B00000001</nif>
+        <adjudicatario>PROVEEDOR 1 SL</adjudicatario>
+        <objetoGenerico>MATERIAL FERRETERÍA</objetoGenerico>
+        <objeto>Objeto del contrato número 1</objeto>
+        <fechaAdjudicacion>2016-01-02 00:00:00</fechaAdjudicacion>
+        <importe>111.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000002</nif>
+        <adjudicatario>PROVEEDOR 2 SL</adjudicatario>
+        <objetoGenerico>MATERIAL ELECTRICIDAD</objetoGenerico>
+        <objeto>Objeto del contrato número 2</objeto>
+        <fechaAdjudicacion>2016-01-03 00:00:00</fechaAdjudicacion>
+        <importe>121.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000003</nif>
+        <adjudicatario>PROVEEDOR 3 SL</adjudicatario>
+        <objetoGenerico>MATERIAL DE OFICINA</objetoGenerico>
+        <objeto>Objeto del contrato número 3</objeto>
+        <fechaAdjudicacion>2016-01-04 00:00:00</fechaAdjudicacion>
+        <importe>132.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000004</nif>
+        <adjudicatario>PROVEEDOR 4 SL</adjudicatario>
+        <objetoGenerico>MANTENIMIENTO SEDE</objetoGenerico>
+        <objeto>Objeto del contrato número 4</objeto>
+        <fechaAdjudicacion>2016-01-05 00:00:00</fechaAdjudicacion>
+        <importe>142.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000005</nif>
+        <adjudicatario>PROVEEDOR 5 SL</adjudicatario>
+        <objetoGenerico>ASISTENCIA JURÍDICA</objetoGenerico>
+        <objeto>Objeto del contrato número 5</objeto>
+        <fechaAdjudicacion>2016-01-06 00:00:00</fechaAdjudicacion>
+        <importe>153.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000006</nif>
+        <adjudicatario>PROVEEDOR 6 SL</adjudicatario>
+        <objetoGenerico>MATERIAL FERRETERÍA</objetoGenerico>
+        <objeto>Objeto del contrato número 6</objeto>
+        <fechaAdjudicacion>2016-01-07 00:00:00</fechaAdjudicacion>
+        <importe>163.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000007</nif>
+        <adjudicatario>PROVEEDOR 7 SL</adjudicatario>
+        <objetoGenerico>MATERIAL ELECTRICIDAD</objetoGenerico>
+        <objeto>Objeto del contrato número 7</objeto>
+        <fechaAdjudicacion>2016-01-08 00:00:00</fechaAdjudicacion>
+        <importe>174.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000008</nif>
+        <adjudicatario>PROVEEDOR 8 SL</adjudicatario>
+        <objetoGenerico>MATERIAL DE OFICINA</objetoGenerico>
+        <objeto>Objeto del contrato número 8</objeto>
+        <fechaAdjudicacion>2016-01-09 00:00:00</fechaAdjudicacion>
+        <importe>184.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000009</nif>
+        <adjudicatario>PROVEEDOR 9 SL</adjudicatario>
+        <objetoGenerico>MANTENIMIENTO SEDE</objetoGenerico>
+        <objeto>Objeto del contrato número 9</objeto>
+        <fechaAdjudicacion>2016-01-10 00:00:00</fechaAdjudicacion>
+        <importe>195.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000010</nif>
+        <adjudicatario>PROVEEDOR 10 SL</adjudicatario>
+        <objetoGenerico>ASISTENCIA JURÍDICA</objetoGenerico>
+        <objeto>Objeto del contrato número 10</objeto>
+        <fechaAdjudicacion>2016-01-11 00:00:00</fechaAdjudicacion>
+        <importe>205.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000011</nif>
+        <adjudicatario>PROVEEDOR 11 SL</adjudicatario>
+        <objetoGenerico>MATERIAL FERRETERÍA</objetoGenerico>
+        <objeto>Objeto del contrato número 11</objeto>
+        <fechaAdjudicacion>2016-01-12 00:00:00</fechaAdjudicacion>
+        <importe>216.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000012</nif>
+        <adjudicatario>PROVEEDOR 12 SL</adjudicatario>
+        <objetoGenerico>MATERIAL ELECTRICIDAD</objetoGenerico>
+        <objeto>Objeto del contrato número 12</objeto>
+        <fechaAdjudicacion>2016-01-13 00:00:00</fechaAdjudicacion>
+        <importe>226.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000013</nif>
+        <adjudicatario>PROVEEDOR 13 SL</adjudicatario>
+        <objetoGenerico>MATERIAL DE OFICINA</objetoGenerico>
+        <objeto>Objeto del contrato número 13</objeto>
+        <fechaAdjudicacion>2016-01-14 00:00:00</fechaAdjudicacion>
+        <importe>237.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000014</nif>
+        <adjudicatario>PROVEEDOR 14 SL</adjudicatario>
+        <objetoGenerico>MANTENIMIENTO SEDE</objetoGenerico>
+        <objeto>Objeto del contrato número 14</objeto>
+        <fechaAdjudicacion>2016-01-15 00:00:00</fechaAdjudicacion>
+        <importe>247.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000015</nif>
+        <adjudicatario>PROVEEDOR 15 SL</adjudicatario>
+        <objetoGenerico>ASISTENCIA JURÍDICA</objetoGenerico>
+        <objeto>Objeto del contrato número 15</objeto>
+        <fechaAdjudicacion>2016-01-16 00:00:00</fechaAdjudicacion>
+        <importe>258.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000016</nif>
+        <adjudicatario>PROVEEDOR 16 SL</adjudicatario>
+        <objetoGenerico>MATERIAL FERRETERÍA</objetoGenerico>
+        <objeto>Objeto del contrato número 16</objeto>
+        <fechaAdjudicacion>2016-01-17 00:00:00</fechaAdjudicacion>
+        <importe>268.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000017</nif>
+        <adjudicatario>PROVEEDOR 17 SL</adjudicatario>
+        <objetoGenerico>MATERIAL ELECTRICIDAD</objetoGenerico>
+        <objeto>Objeto del contrato número 17</objeto>
+        <fechaAdjudicacion>2016-01-18 00:00:00</fechaAdjudicacion>
+        <importe>279.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000018</nif>
+        <adjudicatario>PROVEEDOR 18 SL</adjudicatario>
+        <objetoGenerico>MATERIAL DE OFICINA</objetoGenerico>
+        <objeto>Objeto del contrato número 18</objeto>
+        <fechaAdjudicacion>2016-01-19 00:00:00</fechaAdjudicacion>
+        <importe>289.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000019</nif>
+        <adjudicatario>PROVEEDOR 19 SL</adjudicatario>
+        <objetoGenerico>MANTENIMIENTO SEDE</objetoGenerico>
+        <objeto>Objeto del contrato número 19</objeto>
+        <fechaAdjudicacion>2016-01-20 00:00:00</fechaAdjudicacion>
+        <importe>300.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000020</nif>
+        <adjudicatario>PROVEEDOR 20 SL</adjudicatario>
+        <objetoGenerico>ASISTENCIA JURÍDICA</objetoGenerico>
+        <objeto>Objeto del contrato número 20</objeto>
+        <fechaAdjudicacion>2016-01-21 00:00:00</fechaAdjudicacion>
+        <importe>310.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000021</nif>
+        <adjudicatario>PROVEEDOR 21 SL</adjudicatario>
+        <objetoGenerico>MATERIAL FERRETERÍA</objetoGenerico>
+        <objeto>Objeto del contrato número 21</objeto>
+        <fechaAdjudicacion>2016-01-22 00:00:00</fechaAdjudicacion>
+        <importe>321.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000022</nif>
+        <adjudicatario>PROVEEDOR 22 SL</adjudicatario>
+        <objetoGenerico>MATERIAL ELECTRICIDAD</objetoGenerico>
+        <objeto>Objeto del contrato número 22</objeto>
+        <fechaAdjudicacion>2016-01-23 00:00:00</fechaAdjudicacion>
+        <importe>331.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000023</nif>
+        <adjudicatario>PROVEEDOR 23 SL</adjudicatario>
+        <objetoGenerico>MATERIAL DE OFICINA</objetoGenerico>
+        <objeto>Objeto del contrato número 23</objeto>
+        <fechaAdjudicacion>2016-01-24 00:00:00</fechaAdjudicacion>
+        <importe>342.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000024</nif>
+        <adjudicatario>PROVEEDOR 24 SL</adjudicatario>
+        <objetoGenerico>MANTENIMIENTO SEDE</objetoGenerico>
+        <objeto>Objeto del contrato número 24</objeto>
+        <fechaAdjudicacion>2016-01-25 00:00:00</fechaAdjudicacion>
+        <importe>352.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000025</nif>
+        <adjudicatario>PROVEEDOR 25 SL</adjudicatario>
+        <objetoGenerico>ASISTENCIA JURÍDICA</objetoGenerico>
+        <objeto>Objeto del contrato número 25</objeto>
+        <fechaAdjudicacion>2016-01-26 00:00:00</fechaAdjudicacion>
+        <importe>363.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000026</nif>
+        <adjudicatario>PROVEEDOR 26 SL</adjudicatario>
+        <objetoGenerico>MATERIAL FERRETERÍA</objetoGenerico>
+        <objeto>Objeto del contrato número 26</objeto>
+        <fechaAdjudicacion>2016-01-27 00:00:00</fechaAdjudicacion>
+        <importe>373.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000027</nif>
+        <adjudicatario>PROVEEDOR 27 SL</adjudicatario>
+        <objetoGenerico>MATERIAL ELECTRICIDAD</objetoGenerico>
+        <objeto>Objeto del contrato número 27</objeto>
+        <fechaAdjudicacion>2016-01-28 00:00:00</fechaAdjudicacion>
+        <importe>384.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000028</nif>
+        <adjudicatario>PROVEEDOR 28 SL</adjudicatario>
+        <objetoGenerico>MATERIAL DE OFICINA</objetoGenerico>
+        <objeto>Objeto del contrato número 28</objeto>
+        <fechaAdjudicacion>2016-01-29 00:00:00</fechaAdjudicacion>
+        <importe>394.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000029</nif>
+        <adjudicatario>PROVEEDOR 29 SL</adjudicatario>
+        <objetoGenerico>MANTENIMIENTO SEDE</objetoGenerico>
+        <objeto>Objeto del contrato número 29</objeto>
+        <fechaAdjudicacion>2016-01-30 00:00:00</fechaAdjudicacion>
+        <importe>405.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000030</nif>
+        <adjudicatario>PROVEEDOR 30 SL</adjudicatario>
+        <objetoGenerico>ASISTENCIA JURÍDICA</objetoGenerico>
+        <objeto>Objeto del contrato número 30</objeto>
+        <fechaAdjudicacion>2016-01-31 00:00:00</fechaAdjudicacion>
+        <importe>415.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000031</nif>
+        <adjudicatario>PROVEEDOR 31 SL</adjudicatario>
+        <objetoGenerico>MATERIAL FERRETERÍA</objetoGenerico>
+        <objeto>Objeto del contrato número 31</objeto>
+        <fechaAdjudicacion>2016-02-01 00:00:00</fechaAdjudicacion>
+        <importe>426.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000032</nif>
+        <adjudicatario>PROVEEDOR 32 SL</adjudicatario>
+        <objetoGenerico>MATERIAL ELECTRICIDAD</objetoGenerico>
+        <objeto>Objeto del contrato número 32</objeto>
+        <fechaAdjudicacion>2016-02-02 00:00:00</fechaAdjudicacion>
+        <importe>436.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000033</nif>
+        <adjudicatario>PROVEEDOR 33 SL</adjudicatario>
+        <objetoGenerico>MATERIAL DE OFICINA</objetoGenerico>
+        <objeto>Objeto del contrato número 33</objeto>
+        <fechaAdjudicacion>2016-02-03 00:00:00</fechaAdjudicacion>
+        <importe>447.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000034</nif>
+        <adjudicatario>PROVEEDOR 34 SL</adjudicatario>
+        <objetoGenerico>MANTENIMIENTO SEDE</objetoGenerico>
+        <objeto>Objeto del contrato número 34</objeto>
+        <fechaAdjudicacion>2016-02-04 00:00:00</fechaAdjudicacion>
+        <importe>457.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000035</nif>
+        <adjudicatario>PROVEEDOR 35 SL</adjudicatario>
+        <objetoGenerico>ASISTENCIA JURÍDICA</objetoGenerico>
+        <objeto>Objeto del contrato número 35</objeto>
+        <fechaAdjudicacion>2016-02-05 00:00:00</fechaAdjudicacion>
+        <importe>468.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000036</nif>
+        <adjudicatario>PROVEEDOR 36 SL</adjudicatario>
+        <objetoGenerico>MATERIAL FERRETERÍA</objetoGenerico>
+        <objeto>Objeto del contrato número 36</objeto>
+        <fechaAdjudicacion>2016-02-06 00:00:00</fechaAdjudicacion>
+        <importe>478.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000037</nif>
+        <adjudicatario>PROVEEDOR 37 SL</adjudicatario>
+        <objetoGenerico>MATERIAL ELECTRICIDAD</objetoGenerico>
+        <objeto>Objeto del contrato número 37</objeto>
+        <fechaAdjudicacion>2016-02-07 00:00:00</fechaAdjudicacion>
+        <importe>489.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000038</nif>
+        <adjudicatario>PROVEEDOR 38 SL</adjudicatario>
+        <objetoGenerico>MATERIAL DE OFICINA</objetoGenerico>
+        <objeto>Objeto del contrato número 38</objeto>
+        <fechaAdjudicacion>2016-02-08 00:00:00</fechaAdjudicacion>
+        <importe>499.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000039</nif>
+        <adjudicatario>PROVEEDOR 39 SL</adjudicatario>
+        <objetoGenerico>MANTENIMIENTO SEDE</objetoGenerico>
+        <objeto>Objeto del contrato número 39</objeto>
+        <fechaAdjudicacion>2016-02-09 00:00:00</fechaAdjudicacion>
+        <importe>510.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000040</nif>
+        <adjudicatario>PROVEEDOR 40 SL</adjudicatario>
+        <objetoGenerico>ASISTENCIA JURÍDICA</objetoGenerico>
+        <objeto>Objeto del contrato número 40</objeto>
+        <fechaAdjudicacion>2016-02-10 00:00:00</fechaAdjudicacion>
+        <importe>520.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000041</nif>
+        <adjudicatario>PROVEEDOR 41 SL</adjudicatario>
+        <objetoGenerico>MATERIAL FERRETERÍA</objetoGenerico>
+        <objeto>Objeto del contrato número 41</objeto>
+        <fechaAdjudicacion>2016-02-11 00:00:00</fechaAdjudicacion>
+        <importe>531.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000042</nif>
+        <adjudicatario>PROVEEDOR 42 SL</adjudicatario>
+        <objetoGenerico>MATERIAL ELECTRICIDAD</objetoGenerico>
+        <objeto>Objeto del contrato número 42</objeto>
+        <fechaAdjudicacion>2016-02-12 00:00:00</fechaAdjudicacion>
+        <importe>541.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000043</nif>
+        <adjudicatario>PROVEEDOR 43 SL</adjudicatario>
+        <objetoGenerico>MATERIAL DE OFICINA</objetoGenerico>
+        <objeto>Objeto del contrato número 43</objeto>
+        <fechaAdjudicacion>2016-02-13 00:00:00</fechaAdjudicacion>
+        <importe>552.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000044</nif>
+        <adjudicatario>PROVEEDOR 44 SL</adjudicatario>
+        <objetoGenerico>MANTENIMIENTO SEDE</objetoGenerico>
+        <objeto>Objeto del contrato número 44</objeto>
+        <fechaAdjudicacion>2016-02-14 00:00:00</fechaAdjudicacion>
+        <importe>562.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000045</nif>
+        <adjudicatario>PROVEEDOR 45 SL</adjudicatario>
+        <objetoGenerico>ASISTENCIA JURÍDICA</objetoGenerico>
+        <objeto>Objeto del contrato número 45</objeto>
+        <fechaAdjudicacion>2016-02-15 00:00:00</fechaAdjudicacion>
+        <importe>573.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000046</nif>
+        <adjudicatario>PROVEEDOR 46 SL</adjudicatario>
+        <objetoGenerico>MATERIAL FERRETERÍA</objetoGenerico>
+        <objeto>Objeto del contrato número 46</objeto>
+        <fechaAdjudicacion>2016-02-16 00:00:00</fechaAdjudicacion>
+        <importe>583.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000047</nif>
+        <adjudicatario>PROVEEDOR 47 SL</adjudicatario>
+        <objetoGenerico>MATERIAL ELECTRICIDAD</objetoGenerico>
+        <objeto>Objeto del contrato número 47</objeto>
+        <fechaAdjudicacion>2016-02-17 00:00:00</fechaAdjudicacion>
+        <importe>594.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000048</nif>
+        <adjudicatario>PROVEEDOR 48 SL</adjudicatario>
+        <objetoGenerico>MATERIAL DE OFICINA</objetoGenerico>
+        <objeto>Objeto del contrato número 48</objeto>
+        <fechaAdjudicacion>2016-02-18 00:00:00</fechaAdjudicacion>
+        <importe>604.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000049</nif>
+        <adjudicatario>PROVEEDOR 49 SL</adjudicatario>
+        <objetoGenerico>MANTENIMIENTO SEDE</objetoGenerico>
+        <objeto>Objeto del contrato número 49</objeto>
+        <fechaAdjudicacion>2016-02-19 00:00:00</fechaAdjudicacion>
+        <importe>615.0</importe>
+    </contrato>
+    <contrato>
+        <nif>B00000050</nif>
+        <adjudicatario>PROVEEDOR 50 SL</adjudicatario>
+        <objetoGenerico>ASISTENCIA JURÍDICA</objetoGenerico>
+        <objeto>Objeto del contrato número 50</objeto>
+        <fechaAdjudicacion>2016-02-20 00:00:00</fechaAdjudicacion>
+        <importe>625.0</importe>
+    </contrato>
+</contratos>
