@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConversorUnidades</string>
+    <string name="tituloapp">CONVERSOR DE UNIDADES</string>
+    <string name="bienvenida">¡Bienvenid@! ¿Qué categoría desea convertir?</string>
+    <string name="opcion1">Longitud: metros ↔ kilómetros</string>
+    <string name="opcion2">Peso: gramos ↔ kilogramos</string>
+    <string name="opcion3">Temperatura: Celsius ↔ Fahrenheit</string>
+    <string name="introducir">Y a continuación, introduzca el valor a convertir:</string>
+    <string name="textresult">El resultado aquí:</string>
+    <string name="resultado">              </string>
+
+</resources>
